@@ -1,6 +1,6 @@
 # NFT Minting DApp by <a href="https://www.linkedin.com/in/athika-fatima/"> Athika Fatima</a> - 101502209
 
-**NFT Minting DApp using HardHat, Pinata**
+**NFT Minting DApp using HardHat, Pinata and Alchemy**
 
 **1. Clone the repository**
 
